@@ -1,0 +1,180 @@
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:41:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT USERS.ID, USERS.NAME, USERS.PHONE, USERS.EMAIL, USERS.LAST_EDITED FROM USERS [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:45:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:54:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
+2020-10-14 09:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+INSERT INTO USERS (EMAIL, LAST_EDITED, NAME, PHONE) VALUES (?, ?, ?, ?) [42102-196]
