@@ -1,6 +1,4 @@
 buildscript {
-    ext.exposed_version = '0.10.5'
-    ext.h2_version = '1.4.196'
     repositories {
         jcenter()
     }
@@ -29,6 +27,23 @@ repositories {
     jcenter()
     maven { url 'https://kotlin.bintray.com/ktor' }
 }
+
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
+
+task copyToLib(type: Copy) {
+    into "$buildDir/libs"
+    from(configurations.compile)
+}
+
+gradle.taskGraph.whenReady {
+    taskGraph ->
+        if (taskGraph.hasTask(stage)) {
+            test.enabled = false
+        }
+}
+
+stage.dependsOn(copyToLib)
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
