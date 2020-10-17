@@ -4,6 +4,7 @@ import com.abraham.model.UsersTable
 import com.abraham.utils.Constants
 import com.zaxxer.hikari.HikariConfig
 import com.zaxxer.hikari.HikariDataSource
+import kotlinx.coroutines.ObsoleteCoroutinesApi
 import kotlinx.coroutines.newFixedThreadPoolContext
 import kotlinx.coroutines.withContext
 import org.jetbrains.exposed.sql.SchemaUtils.create
@@ -12,6 +13,7 @@ import org.jetbrains.exposed.sql.insert
 import org.jetbrains.exposed.sql.transactions.transaction
 import kotlin.coroutines.CoroutineContext
 
+@ObsoleteCoroutinesApi
 object DatabaseHelper {
 
     private val dispatcher: CoroutineContext

@@ -4,7 +4,6 @@ import com.abraham.model.User
 import com.abraham.service.UserService
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import com.google.gson.Gson
 import io.ktor.application.call
 import io.ktor.http.HttpStatusCode
 import io.ktor.http.cio.websocket.Frame
@@ -12,9 +11,12 @@ import io.ktor.request.receive
 import io.ktor.response.respond
 import io.ktor.routing.*
 import io.ktor.websocket.webSocket
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.channels.receiveOrNull
 
 const val WIDGET_END_POINT = "/user"
 val mapper = jacksonObjectMapper().apply { setSerializationInclusion(JsonInclude.Include.NON_NULL) }
+@ExperimentalCoroutinesApi
 fun Route.widget(userService: UserService) {
 
     route(WIDGET_END_POINT) {
