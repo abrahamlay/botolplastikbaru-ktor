@@ -28,6 +28,15 @@ repositories {
     maven { url 'https://kotlin.bintray.com/ktor' }
 }
 
+jar {
+    manifest {
+        attributes(
+                'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+                'Main-Class': 'com.abraham.ApplicationKt'
+        )
+    }
+}
+
 task stage(dependsOn: ['build', 'clean'])
 build.mustRunAfter clean
 
