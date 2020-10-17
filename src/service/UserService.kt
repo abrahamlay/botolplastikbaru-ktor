@@ -5,8 +5,10 @@ import com.abraham.model.Notification
 import com.abraham.model.User
 import com.abraham.model.UsersTable
 import com.abraham.service.DatabaseHelper.dbQuery
+import kotlinx.coroutines.ObsoleteCoroutinesApi
 import org.jetbrains.exposed.sql.*
 
+@ObsoleteCoroutinesApi
 class UserService {
 
     private val listeners = mutableMapOf<Int, suspend (Notification<User?>) -> Unit>()

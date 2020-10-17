@@ -12,7 +12,11 @@ import io.ktor.gson.*
 import io.ktor.features.*
 import kotlin.test.*
 import io.ktor.server.testing.*
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.ObsoleteCoroutinesApi
 
+@ObsoleteCoroutinesApi
+@ExperimentalCoroutinesApi
 class ApplicationTest {
     @Test
     fun testRoot() {

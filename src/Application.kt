@@ -18,23 +18,26 @@ import io.ktor.jackson.jackson
 import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty
 import io.ktor.websocket.WebSockets
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.ObsoleteCoroutinesApi
 
 fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
 
+@ObsoleteCoroutinesApi
+@ExperimentalCoroutinesApi
 @Suppress("unused") // Referenced in application.conf
 @kotlin.jvm.JvmOverloads
 fun Application.module(testing: Boolean = false) {
-    val port = System.getenv("PORT")?.toInt() ?: 23567
-    embeddedServer(Netty, port) {
-        DatabaseHelper.init()
-        install(DefaultHeaders)
-        install(CallLogging)
-        install(WebSockets)
-        install(ContentNegotiation){
-            jackson { configure(SerializationFeature.INDENT_OUTPUT,true)}
-        }
-        install(Routing){ widget(userService = UserService()) }
-    }.start(wait = true)
+//    val port = System.getenv("PORT")?.toInt() ?: 23567
+//    embeddedServer(Netty, port) {
+    DatabaseHelper.init()
+    install(DefaultHeaders)
+    install(CallLogging)
+    install(WebSockets)
+    install(ContentNegotiation) {
+        jackson { configure(SerializationFeature.INDENT_OUTPUT, true) }
+    }
+    install(Routing) { widget(userService = UserService()) }
+//    }.start(wait = true)
 }
 
